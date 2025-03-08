@@ -1,4 +1,3 @@
-Sure, here is a basic `README.md` file for your project:
 
 ```markdown
 # Career Page Automation
