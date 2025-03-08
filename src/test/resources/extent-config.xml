@@ -1,0 +1,9 @@
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>utf-8</encoding>
+        <documentTitle>Automation Test Report</documentTitle>
+        <reportName>BDD Test Results</reportName>
+        <timelineEnabled>true</timelineEnabled>
+    </configuration>
+</extentreports>
