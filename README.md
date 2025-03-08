@@ -1,6 +1,6 @@
 
-```markdown
-# Career Page Automation
+
+# Selenium BDD test automation structure
 
 This project automates the testing of a sample project structure using using Selenium and Cucumber with extend reporting.
 
